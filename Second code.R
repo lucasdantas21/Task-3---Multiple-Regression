@@ -9,3 +9,4 @@ LucasAndres$Depth <- NULL
 LucasAndres$Width <- NULL
 LucasAndres$Heigth <- NULL
 LucasAndres$X1 <- NULL
+LucasAndres$Best_seller_rank <- NULL
