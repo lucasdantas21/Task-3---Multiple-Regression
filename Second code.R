@@ -8,3 +8,4 @@ LucasAndres$Dimension <- LucasAndres$Depth*LucasAndres$Width*LucasAndres$Heigth
 LucasAndres$Depth <- NULL
 LucasAndres$Width <- NULL
 LucasAndres$Heigth <- NULL
+LucasAndres$X1 <- NULL
